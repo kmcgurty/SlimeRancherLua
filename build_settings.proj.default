@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <game_base_dir>[duplicate this file, rename it to build_settings.proj, then insert game path here]</game_base_dir>
+  </PropertyGroup>
+</Project>

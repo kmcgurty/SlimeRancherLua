@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SlimeRancherLoaderExe": {
+      "commandName": "Executable",
+      "executablePath": "SlimeRancher.exe",
+      "workingDirectory": "$(game_base_dir)"
+    }
+  }
+}
